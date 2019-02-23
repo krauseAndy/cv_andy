@@ -767,12 +767,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-02-23T00:38:32.010Z",
+      "buildTime": "2019-02-23T17:49:36.681Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8fdfefdac0dc05f1b5220f5e5ab77100",
+        "contentDigest": "c407172079f729c2cc8e88b6518d8660",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -896,13 +896,10 @@
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "sq--src-components-layout-js": 2994927498,
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E"
+    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/home/krause/Documents/cv_andy/node_modules/gatsby-plugin-offline/app-shell.js": {
-      "query": "",
-      "componentPath": "/home/krause/Documents/cv_andy/node_modules/gatsby-plugin-offline/app-shell.js"
-    },
     "/home/krause/Documents/cv_andy/src/pages/404.js": {
       "query": "",
       "componentPath": "/home/krause/Documents/cv_andy/src/pages/404.js"
@@ -914,6 +911,10 @@
     "/home/krause/Documents/cv_andy/src/pages/page-2.js": {
       "query": "",
       "componentPath": "/home/krause/Documents/cv_andy/src/pages/page-2.js"
+    },
+    "/home/krause/Documents/cv_andy/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "query": "",
+      "componentPath": "/home/krause/Documents/cv_andy/node_modules/gatsby-plugin-offline/app-shell.js"
     }
   },
   "staticQueryComponents": {
