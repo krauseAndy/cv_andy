@@ -29,7 +29,7 @@ class Main extends React.Component {
           <span className="image main" />
           <p>
             <ul>
-              <li>Html,CSS3</li>
+              <li>Html CSS3</li>
               <li>JavaScript</li>
               <li>React</li>
               <li>Sass</li>
@@ -54,7 +54,7 @@ class Main extends React.Component {
           <h2 className="major">Work</h2>
           <span className="image main" />
           <p>
-            <h2>junior web developpeur</h2>
+            <h2>junior web developer</h2>
             <h3>BeCode Liège : 2018 - 2019</h3>
           </p>
           <ul>
@@ -64,6 +64,9 @@ class Main extends React.Component {
               React.js, HTML, CSS
             </li>
             <li>Gestion de travail d'équipe en méthode SCRUM</li>
+            <li>
+              <a href="https://github.com/krauseAndy">Mon GitHub</a>
+            </li>
           </ul>
           {close}
         </article>
@@ -75,7 +78,7 @@ class Main extends React.Component {
           }`}
           style={{ display: "none" }}
         >
-          <h2 className="major">A propos de moi:</h2>
+          <h2 className="major">A propos de moi</h2>
           <span className="image main" />
           <p>
             Après avoir travaillé dans le domaine du bâtiment, j'ai opté pour
@@ -85,12 +88,12 @@ class Main extends React.Component {
             nouvelles technologies et langages afin de devenir plus polyvalent
             en m'inscrivant dans un projet artistiquement ambitieux.
           </p>
-          <h2 className="major">Atouts:</h2>
+          <h2 className="major">Atouts</h2>
           <p>
-            Ponctuel - Convivial Consciencieux - Autonome Flexible -
+            Ponctuel - Convivial - Consciencieux - Autonome Flexible -
             Facilitateur
           </p>
-          <h2 className="major">Centre d'intérêt:</h2>
+          <h2 className="major">Centres d'intérêt</h2>
           <p>
             Jeux-vidéo, lecture, cinéma, tatouage, art, technologie web, voyage,
             design, manga, promenade, boxe, jeux de société, écouter de la
@@ -108,8 +111,8 @@ class Main extends React.Component {
         >
           <h2 className="major">Contact</h2>
           <p>
-            <strong>Tel</strong> : +32 492 95 02 29
-            <br /> <strong>Mail</strong> : andykrausepro@gmail.com
+            +32 492 95 02 29
+            <br /> andykrausepro@gmail.com
           </p>
           <p />
           <ul className="icons">
